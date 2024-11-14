@@ -1,9 +1,0 @@
-<html lang="es">
-    <head>
-        <meta charset="UTF-8">
-        <title>Inicio</title>
-    </head>
-    <BODY>
-        <a href="1.html">Ir a página 1</a>
-    </BODY>
-</html>

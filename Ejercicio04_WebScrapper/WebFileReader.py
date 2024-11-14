@@ -27,5 +27,3 @@ class WebFileReader:
         soup = BeautifulSoup(html_content, 'html.parser')
         links = [a['href'] for a in soup.find_all('a', href=True)]
         return links
-
-
